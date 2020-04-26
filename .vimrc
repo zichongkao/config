@@ -94,7 +94,7 @@ endif
 
 " quote word
 :nnoremap 'w bi'<Esc>ea'<Esc>
-:nnoremap "W bi"<Esc>ea"<Esc>
+:nnoremap "w bi"<Esc>ea"<Esc>
 
 " common typos
 :cmap WQ wq
